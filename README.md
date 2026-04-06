@@ -45,7 +45,7 @@ O projeto foi estruturado seguindo princípios de código limpo e organização 
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/picpay-desafio-backend.git](https://github.com/SEU_USUARIO/picpay-desafio-backend.git)
+    git clone [https://github.com/ArthurVSMatos/picpay-desafio-backend.git](https://github.com/ArthurVSMatos/picpay-desafio-backend.git)
     ```
 2.  Importe o projeto na sua IDE preferida (IntelliJ, Eclipse ou VS Code).
 3.  Aguarde o Maven baixar as dependências.
